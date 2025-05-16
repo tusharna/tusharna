@@ -32,7 +32,7 @@
 
 - [SteelCards](https://github.com/tusharna/SteelCards): A dynamic card game built with JavaScript.
 - [ExcelJS Sample](https://github.com/tusharna/ExcelJS_Sample): Demonstrates Excel file manipulations using ExcelJS.
-- [NEPELKRECS](https://github.com/tusharna/NEPELKRECS): A TypeScript project focusing on [brief description].
+- [NEPELKRECS](https://github.com/tusharna/NEPELKRECS): A TypeScript project focusing on building a scalable architecture using NodeJs and AWS.
 
 ---
 
